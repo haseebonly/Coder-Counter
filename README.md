@@ -1,8 +1,12 @@
-# React + Vite
+Coder-Counter
+Coder-Counter is a sleek, minimalist counter application designed to track and display numerical values with an intuitive user interface. Built with React and styled using modern CSS, this app is responsive, ensuring a seamless experience across all devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Increment/Decrement: Easily increase or decrease the counter value with the intuitive buttons.
+Reset: Quickly reset the counter to its initial value with a simple click.
+Responsive Design: Optimized for both desktop and mobile devices.
+Dynamic UI: Smooth transitions and an elegant interface with real-time updates.
+Tech Stack
+Frontend: React.js
+Styling: Tailwind CSS / Custom CSS
+State Management: React Hooks (useState)
